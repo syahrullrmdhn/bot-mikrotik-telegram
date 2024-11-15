@@ -1,0 +1,4 @@
+jangan lupa untuk buat bot telegram di @botfather
+
+lalu masukkan API Token nya
+setelahnya kalau bisa bedakan antara user untuk api dan user yang umum digunakan

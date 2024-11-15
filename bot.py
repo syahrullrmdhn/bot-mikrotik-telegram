@@ -8,7 +8,7 @@ username = 'admin'
 password = 'syahrul'
 
 # Konfigurasi Bot Telegram
-telegram_token = '8033566871:AAH23khx4f9UZFN7WEinT3GwlokyCov82P8'  # Ganti dengan token bot Telegram Anda
+telegram_token = 'Masukkan_API_TELEGRAM'  # Ganti dengan token bot Telegram Anda
 
 # Koneksi ke MikroTik
 try:
